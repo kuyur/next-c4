@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nextc4", "nextc4\nextc4.vcxproj", "{B1ADB941-E997-448F-94C8-A5F9C1C3DFF6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nextc4-charmapmaker-front-b2u", "nextc4-charmapmaker-front-b2u\nextc4-charmapmaker-front-b2u.vcxproj", "{621093D8-E797-4C01-A5E1-E0C96AB2DCC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1ADB941-E997-448F-94C8-A5F9C1C3DFF6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B1ADB941-E997-448F-94C8-A5F9C1C3DFF6}.Debug|Win32.Build.0 = Debug|Win32
+		{B1ADB941-E997-448F-94C8-A5F9C1C3DFF6}.Release|Win32.ActiveCfg = Release|Win32
+		{B1ADB941-E997-448F-94C8-A5F9C1C3DFF6}.Release|Win32.Build.0 = Release|Win32
+		{621093D8-E797-4C01-A5E1-E0C96AB2DCC7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{621093D8-E797-4C01-A5E1-E0C96AB2DCC7}.Debug|Win32.Build.0 = Debug|Win32
+		{621093D8-E797-4C01-A5E1-E0C96AB2DCC7}.Release|Win32.ActiveCfg = Release|Win32
+		{621093D8-E797-4C01-A5E1-E0C96AB2DCC7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
