@@ -20,10 +20,10 @@
 namespace NextC4 {
     class CContext {
     public:
-        CContext(const wchar_t* config_file, const wchar_t* base_path = L"");
+        CContext(const wchar_t* config_file_name, const wchar_t* base_path = L"");
         ~CContext();
-        bool init();
-        void finalize();
+        bool Initialize();
+        void Finalize();
     };
 };
 

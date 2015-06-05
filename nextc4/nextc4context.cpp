@@ -13,20 +13,20 @@
 
 #include "nextc4context.h"
 
-NextC4::CContext::CContext(const wchar_t* config_file, const wchar_t* base_path)
+NextC4::CContext::CContext(const wchar_t* config_file_name, const wchar_t* base_path)
 {
 }
 
 NextC4::CContext::~CContext()
 {
-    finalize();
+    Finalize();
 }
 
-bool NextC4::CContext::init()
+bool NextC4::CContext::Initialize()
 {
     return true;
 }
 
-void NextC4::CContext::finalize()
+void NextC4::CContext::Finalize()
 {
 }
