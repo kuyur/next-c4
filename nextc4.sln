@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nextc4-charmapmaker-front-l
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nextc4-charmapmaker-medium-chn-simp2tra", "nextc4-charmapmaker-medium-chn-simp2tra\nextc4-charmapmaker-medium-chn-simp2tra.vcxproj", "{DF510A7F-4748-49A3-A2B7-16427E7867D4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nextc4-charmapmaker-medium-chn-tra2simp", "nextc4-charmapmaker-medium-chn-tra2simp\nextc4-charmapmaker-medium-chn-tra2simp.vcxproj", "{94A87FED-1824-4033-8D2C-865B9DE45F7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -55,6 +57,10 @@ Global
 		{DF510A7F-4748-49A3-A2B7-16427E7867D4}.Debug|Win32.Build.0 = Debug|Win32
 		{DF510A7F-4748-49A3-A2B7-16427E7867D4}.Release|Win32.ActiveCfg = Release|Win32
 		{DF510A7F-4748-49A3-A2B7-16427E7867D4}.Release|Win32.Build.0 = Release|Win32
+		{94A87FED-1824-4033-8D2C-865B9DE45F7C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{94A87FED-1824-4033-8D2C-865B9DE45F7C}.Debug|Win32.Build.0 = Debug|Win32
+		{94A87FED-1824-4033-8D2C-865B9DE45F7C}.Release|Win32.ActiveCfg = Release|Win32
+		{94A87FED-1824-4033-8D2C-865B9DE45F7C}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
