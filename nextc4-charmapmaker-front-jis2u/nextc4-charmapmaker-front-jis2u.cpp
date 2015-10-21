@@ -1,6 +1,6 @@
 /************************************************************************/
 /*                                                                      */
-/* Make Ansi to Unicode Charmap 1.0 (Cyrillic(CP1251) front-end) for    */
+/* Make Ansi to Unicode Charmap 1.0 (Shift-JIS front-end) for           */
 /* next-c4 lib.                                                         */
 /*                                                                      */
 /* Version: 1.0                                                         */
