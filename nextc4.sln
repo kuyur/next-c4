@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nextc4-charmapmaker-front-j
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nextc4-charmapmaker-front-kr2u", "nextc4-charmapmaker-front-kr2u\nextc4-charmapmaker-front-kr2u.vcxproj", "{08AE4748-5FD0-400F-93E2-A00EA9ACCA6E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "nextc4-charmapmaker-front-latin2u", "nextc4-charmapmaker-front-latin2u\nextc4-charmapmaker-front-latin2u.vcxproj", "{F8B26CF2-AD7E-41B2-A726-513FEBA70A51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -43,6 +45,10 @@ Global
 		{08AE4748-5FD0-400F-93E2-A00EA9ACCA6E}.Debug|Win32.Build.0 = Debug|Win32
 		{08AE4748-5FD0-400F-93E2-A00EA9ACCA6E}.Release|Win32.ActiveCfg = Release|Win32
 		{08AE4748-5FD0-400F-93E2-A00EA9ACCA6E}.Release|Win32.Build.0 = Release|Win32
+		{F8B26CF2-AD7E-41B2-A726-513FEBA70A51}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F8B26CF2-AD7E-41B2-A726-513FEBA70A51}.Debug|Win32.Build.0 = Debug|Win32
+		{F8B26CF2-AD7E-41B2-A726-513FEBA70A51}.Release|Win32.ActiveCfg = Release|Win32
+		{F8B26CF2-AD7E-41B2-A726-513FEBA70A51}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
