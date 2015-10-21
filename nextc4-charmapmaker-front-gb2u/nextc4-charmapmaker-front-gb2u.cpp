@@ -39,17 +39,17 @@ static const wchar_t AppendGBKChar[]={
 
 unsigned char CharToHex(char ch) 
 { 
-	// 0-9
-	if (ch>='0'&&ch<='9') 
-		return (ch-'0');         
-	// 9-15
-	if (ch>='A'&&ch<='F') 
-		return (ch-'A'+0xA); 
-	// 9-15
-	if (ch>='a'&&ch<='f') 
-		return (ch-'a'+0xA);
+    // 0-9
+    if (ch>='0'&&ch<='9')
+        return (ch-'0');
+    // 9-15
+    if (ch>='A'&&ch<='F')
+        return (ch-'A'+0xA);
+    // 9-15
+    if (ch>='a'&&ch<='f')
+        return (ch-'a'+0xA);
 
-	return(0);
+    return(0);
 }
 
 char SingleHexToChar(int SingleHex)
