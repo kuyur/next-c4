@@ -182,3 +182,4 @@ UpgradeLog*.htm
 # Microsoft Fakes
 FakesAssemblies/
 /maps/dest
+/maps/src/CP936-full.txt
